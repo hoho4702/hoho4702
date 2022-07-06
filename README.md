@@ -1,6 +1,8 @@
 ## 😄 Pronounce
 ### Hi there 👋 I'm ChangHo
 ![Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoho4702&show_icons=true&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoho4702)](https://solved.ac/hoho4702)
+
 ## 🌱 Skills
 ### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
