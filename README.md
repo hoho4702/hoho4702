@@ -1,6 +1,6 @@
 ## 😄 Pronounce
 ### Hi there 👋 I'm ChangHo
-
+![Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoho4702&show_icons=true&theme=dracula)
 ## 🌱 Skills
 ### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
